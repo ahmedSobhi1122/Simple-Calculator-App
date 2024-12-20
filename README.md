@@ -1,3 +1,3 @@
 # Simple Calculator App
 
-![Screenshot Description](screenshot/Calculator.png)
+![Screenshot Description](Screenshots/Calculator.jpg)
